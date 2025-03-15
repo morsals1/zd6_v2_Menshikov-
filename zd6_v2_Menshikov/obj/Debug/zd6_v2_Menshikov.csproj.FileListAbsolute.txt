@@ -1,0 +1,10 @@
+C:\Users\305-9\Desktop\kotlin_menshikov\zd6_v2_Menshikov\bin\Debug\zd6_v2_Menshikov.exe.config
+C:\Users\305-9\Desktop\kotlin_menshikov\zd6_v2_Menshikov\bin\Debug\zd6_v2_Menshikov.exe
+C:\Users\305-9\Desktop\kotlin_menshikov\zd6_v2_Menshikov\bin\Debug\zd6_v2_Menshikov.pdb
+C:\Users\305-9\Desktop\kotlin_menshikov\zd6_v2_Menshikov\obj\Debug\zd6_v2_Menshikov.csproj.AssemblyReference.cache
+C:\Users\305-9\Desktop\kotlin_menshikov\zd6_v2_Menshikov\obj\Debug\zd6_v2_Menshikov.MainForm.resources
+C:\Users\305-9\Desktop\kotlin_menshikov\zd6_v2_Menshikov\obj\Debug\zd6_v2_Menshikov.Properties.Resources.resources
+C:\Users\305-9\Desktop\kotlin_menshikov\zd6_v2_Menshikov\obj\Debug\zd6_v2_Menshikov.csproj.GenerateResource.cache
+C:\Users\305-9\Desktop\kotlin_menshikov\zd6_v2_Menshikov\obj\Debug\zd6_v2_Menshikov.csproj.CoreCompileInputs.cache
+C:\Users\305-9\Desktop\kotlin_menshikov\zd6_v2_Menshikov\obj\Debug\zd6_v2_Menshikov.exe
+C:\Users\305-9\Desktop\kotlin_menshikov\zd6_v2_Menshikov\obj\Debug\zd6_v2_Menshikov.pdb
